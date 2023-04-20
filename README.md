@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Thiago</h1>
 <h3 align="center">I'm a software development student .NET C# 👨‍💻</h3>
 
+<div style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&&text=Andrey+Mateus&fontAlign=50&stroke=00008b&strokeWidth=3&fontAlignY=40&color=gradient" alt="Waving SVG" width="100%">
+</div>
+
 </br>
 
 
