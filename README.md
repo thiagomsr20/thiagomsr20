@@ -13,5 +13,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/thiago maciel soares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago maciel soares" height="30" width="40" /></a>
 <a href="https://instagram.com/thiagomsoarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiagomsoarez" height="30" width="40" /></a>
-<a href="https://discord.gg/rhiffen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rhiffen" height="30" width="40" /></a>
 </p>
