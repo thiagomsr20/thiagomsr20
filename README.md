@@ -12,5 +12,3 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/thiago-maciel-soares-738913235/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago linkedin img" height="30" width="40" /></a>
-
-<code><img height="50" src="[./icons_tecnologias/javascript-svgrepo-com.svg](https://www.linkedin.com/in/thiago-maciel-soares-738913235/)https://www.linkedin.com/in/thiago-maciel-soares-738913235/" alt="JavaScript" title="JavaScript/EcmaScript" /></code>
