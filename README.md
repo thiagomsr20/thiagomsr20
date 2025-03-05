@@ -69,7 +69,7 @@
 
 ## 📫 Get in Touch
 📧 **Email:** [thiagomsr20@gmail.com](mailto:thiagomsr20@gmail.com)  
-📷 **Instagram:** [@ThiagoDev](https://www.instagram.com/thg_rmss/)  
+📷 **Instagram:** [@thg_rmss](https://www.instagram.com/thg_rmss/)  
 🔗 **LinkedIn:** [Thiago Soares](https://www.linkedin.com/in/thiago-maciel-soares-738913235/)  
 🌎 **Website:** [thiagosoaresdev.vercel.app](https://thiagosoaresdev.vercel.app/)
 
