@@ -51,10 +51,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomsr20&theme=tokyonight" alt="GitHub Streak">
 </p>
-
----
-
-## 🔥 Most Used Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomsr20&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </p>
