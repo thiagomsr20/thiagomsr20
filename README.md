@@ -15,9 +15,6 @@
 ## 🚀 About Me
 - 🖥️ Software Developer with experience in **C# and ASP.NET**, while also studying and using **React with JavaScript** in personal projects.
 - ⚙️ Passionate about solving complex problems and understanding how things work in-depth.
-- 📚 Learning **React.JS** and working on **my personal website**.
-- 🎵 Currently developing **Pitch Fixer App**, an application to change playback pitch for easier singing.
-
 ---
 
 ## 🛠️ Technologies I Use (But Not Limited To)
