@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🖥️ Software Developer with experience in **C# and ASP.NET**, while also studying and using **React with JavaScript** in personal projects.
-- ⚙️ Passionate about solving complex problems and understanding how things work in-depth.
+- ⚙️ I'm self-taugh, with passionate about solving complex problems and understanding how things work in-depth.
 ---
 
 ## 🛠️ Technologies I Use (But Not Limited To)
