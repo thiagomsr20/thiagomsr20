@@ -41,24 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagomsr20&show_icons=true&theme=tokyonight" alt="Thiago's GitHub Stats">
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomsr20&theme=tokyonight" alt="GitHub Streak">
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomsr20&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</p>
-
----
-
-
 ## 📌 Featured Projects
-### 🎵 [Pitch Fixer App](https://github.com/thiagomsr20/pitch-fixer-app) (Working on)
-> An app to modify playback pitch for easier singing in different tones.
-
 ### 🦷 [Ortoflow](https://app.ortoflow.com.br) (Working on)
 > An SaaS project.
 
